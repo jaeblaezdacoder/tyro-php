@@ -2,7 +2,7 @@
 #  Add your page title
 $title = "My Tyro-PHP Website";
 #  Add your page description
-$description = "A simple (but feature-rich!) PHP template script that allows you to create web pages without a database.";
+$description = "A website developed from fair-use templates that have been modified for educational purposes.";
 
 #  Display side menu
 #  Change to 1 to show side menu
