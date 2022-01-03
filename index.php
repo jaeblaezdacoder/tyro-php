@@ -11,25 +11,82 @@ $showSide = 0;
 include ('header.php');
 ?>
 
-<h1>Welcome!</h1>
-<div>Welcome to your website!<br><br></div>
-
-<div>You can modify this page by editing the index.php file.<br><br></div>
-
-<div>Visit our <a href="how-to.php">How To</a> guide for information on using this template.<br><br></div>
-
-<div>Use helper classes to make one, two or three column pages.  You can view the code on the Layout pages on our <a href="http://phpwebsitetemplates.com">website</a><br><br></div>
-
-<div class="one-half">
-	<h3>First Column</h3>
-	Nunc quis varius odio. In sed augue velit. Nunc vel auctor velit, vitae ultrices nunc. Nullam sed dui bibendum nunc luctus pharetra non eu nisl. Phasellus neque urna, semper at ultricies in, tempus tincidunt magna. Phasellus tempor posuere nulla, vel tincidunt dolor iaculis sodales. Suspendisse dapibus ipsum non nibh fermentum, quis gravida mauris tempor. Proin ultrices metus vitae congue vestibulum. Aenean et dui ac lorem consequat hendrerit. Suspendisse fermentum pellentesque velit sed lacinia. Curabitur ultrices purus lorem, mattis cursus ipsum cursus nec.
+<div>
+FlexSlider is a great slider to display images and accompanying text on a web page.  It's also responsive; so the images will automatically resize depending on screen size.
 </div>
-<div class="one-half">
-	<h3>Second Column</h3>
-	Nunc quis varius odio. In sed augue velit. Nunc vel auctor velit, vitae ultrices nunc. Nullam sed dui bibendum nunc luctus pharetra non eu nisl. Phasellus neque urna, semper at ultricies in, tempus tincidunt magna. Phasellus tempor posuere nulla, vel tincidunt dolor iaculis sodales. Suspendisse dapibus ipsum non nibh fermentum, quis gravida mauris tempor. Proin ultrices metus vitae congue vestibulum. Aenean et dui ac lorem consequat hendrerit. Suspendisse fermentum pellentesque velit sed lacinia. Curabitur ultrices purus lorem, mattis cursus ipsum cursus nec.
+
+<div>
+Adding a FlexSlider to your home page or any other pages on your website is easy.  You can control the images and the text they display by modifying the code contained in each section as shown below.
 </div>
+
 
 <div class="clear">
+
+
+
+
+<div class="meta">
+</div>
+
+</div>
+
+<div id="slide-wrapper">
+	<div id="slide">
+
+		<div class="flexslider left">
+			<ul class="slides">
+				<li>
+					<div class="flexslider_background" style="background: url('https://source.unsplash.com/BaCmEa2hy8g/1600x900') no-repeat center;">
+					</div>
+					<div class="meta">
+						<h1>Easily edit PHP templates</h1>
+						<h2>Create flexible webpages</h2>
+						<div class="category">
+							<p>Easy</p>
+							<p>Flexible</p>
+						</div>
+					</div>
+				</li>
+				<li>
+					<div class="flexslider_background" style="background: url('https://source.unsplash.com/RmZIUIF2S2Q/1600x900') no-repeat center;">
+					</div>
+					<div class="meta">
+						<h1>Don't need a database?</h1>
+						<h2>No MySQL database required!</h2>
+						<div class="category">
+							<p>Create new pages</p>
+							<p>Commit by git</p>
+						</div>
+					</div>
+				</li>
+				<li>
+					<div class="flexslider_background" style="background: url('https://source.unsplash.com/cFplR9ZGnAk/1600x900') no-repeat center;">
+					</div>
+					<div class="meta">
+						<h1>Customize your theme</h1>
+						<h2>Display using stylesheets</h2>
+						<div class="category">
+							<p>CSS</p>
+                            <p>HTML</p>
+						</div>
+					</div>
+				</li>
+				<li>
+					<div class="flexslider_background" style="background: url('https://source.unsplash.com/Ui8KQ0ahXBM/1600x900') no-repeat center;">
+					</div>
+					<div class="meta">
+						<h1>Feature Rich</h1>
+						<h2>A simple PHP website template</h2>
+						<div class="category">
+							<p>Learn</p>
+                            <p>Apply</p>
+						</div>
+					</div>
+				</li>
+			</ul>
+		</div>
+
+	</div>
 </div>
 
 
