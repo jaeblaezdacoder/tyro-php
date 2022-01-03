@@ -44,9 +44,9 @@ $menu = array(
 #  Refer to FontAwesome documention for other social icons
 
 $socialIcons = array(
-    'Twitter' => array(
-        'link' => 'http://twitter.com',
-        'icon' => 'fa-twitter'
+    'Gettr' => array(
+        'link' => 'https://gettr.com/user/jae_dacoder',
+        'icon' => 'fa-gettr'
     ),
     'Facebook' => array(
         'link' => 'http://facebook.com',

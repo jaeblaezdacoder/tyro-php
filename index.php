@@ -1,6 +1,6 @@
 <?php
 #  Add your page title
-$title = "My Tyro-PHP Website";
+$title = "My tyro-php Website";
 #  Add your page description
 $description = "A website developed from fair-use templates that have been modified for educational purposes.";
 
@@ -11,24 +11,7 @@ $showSide = 0;
 include ('header.php');
 ?>
 
-<div>
-FlexSlider is a great slider to display images and accompanying text on a web page.  It's also responsive; so the images will automatically resize depending on screen size.
-</div>
-
-<div>
-Adding a FlexSlider to your home page or any other pages on your website is easy.  You can control the images and the text they display by modifying the code contained in each section as shown below.
-</div>
-
-
-<div class="clear">
-
-
-
-
-<div class="meta">
-</div>
-
-</div>
+<div class="clear"></div>
 
 <div id="slide-wrapper">
 	<div id="slide">
