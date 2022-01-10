@@ -661,7 +661,7 @@ a.btns:hover i{
 	z-index: 500;
 }
 
-#menu ul:before,.#menuv ul:after {
+#menu ul:before,.menu ul:after {
 	content:"";
 	display:table;
 }

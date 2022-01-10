@@ -1,7 +1,7 @@
 <?php
 
 #  Sets the site name and URL
-$siteName = "Dacoder Linx";
+$siteName = "";
 $siteURL = "http://yourwebsite.com";
 
 # Add the location of your logo image
@@ -23,20 +23,20 @@ $bingVerify = "abCdefghijk";
 #  Second and third level links should have a 'parentid' of their parent link
 #  Add or delete as needed
 
-$menu = array(
-	'1' => array('id' => 1, 'parentid' => 0, 'title' => 'Home',    'url' => 'index'),
-	'2' => array('id' => 2, 'parentid' => 0, 'title' => 'Main Link 1',    'url' => 'mainlink1'),
-	'3' => array('id' => 3, 'parentid' => 0, 'title' => 'Main Link 2',    'url' => 'mainlink2'),
-	'4' => array('id' => 4, 'parentid' => 0, 'title' => 'Main Link 3',    'url' => 'mainlink3'),
-	'5' => array('id' => 5, 'parentid' => 0, 'title' => 'Contact Us',     'url' => 'contact-us'),
-	'6' => array('id' => 6, 'parentid' => 3, 'title' => 'Child Link 1',   'url' => 'child1'),
-	'7' => array('id' => 7, 'parentid' => 4, 'title' => 'Child Link 2',   'url' => 'child2'),
-	'8' => array('id' => 8, 'parentid' => 6, 'title' => 'Child Link 3',    'url' => 'child3'),
-	'9' => array('id' => 9, 'parentid' => 2, 'title' => 'Single Column','url' => 'one-column'),
-	'10' => array('id' => 10, 'parentid' => 2, 'title' => 'Two Columns',     'url' => 'two-columns'),
-	'11' => array('id' => 11, 'parentid' => 2, 'title' => 'Three Columns',   'url' => 'three-columns'),
-	'12' => array('id' => 12, 'parentid' => 2, 'title' => 'Gallery',    'url' => 'portfolio'),
-);
+  $menu = array(
+#	'1' => array('id' => 1, 'parentid' => 0, 'title' => 'Home',    'url' => 'index'),
+#	'2' => array('id' => 2, 'parentid' => 0, 'title' => 'Jaeblaez',    'url' => 'mainlink1'),
+#	'3' => array('id' => 3, 'parentid' => 0, 'title' => 'Main Link 2',    'url' => 'mainlink2'),
+#	'4' => array('id' => 4, 'parentid' => 0, 'title' => 'Main Link 3',    'url' => 'mainlink3'),
+#	'5' => array('id' => 5, 'parentid' => 0, 'title' => 'Contact Us',     'url' => 'contact-us'),
+#	'6' => array('id' => 6, 'parentid' => 3, 'title' => 'Child Link 1',   'url' => 'child1'),
+#	'7' => array('id' => 7, 'parentid' => 4, 'title' => 'Child Link 2',   'url' => 'child2'),
+#	'8' => array('id' => 8, 'parentid' => 6, 'title' => 'Child Link 3',    'url' => 'child3'),
+#	'9' => array('id' => 9, 'parentid' => 2, 'title' => 'Single Column','url' => 'one-column'),
+#	'10' => array('id' => 10, 'parentid' => 2, 'title' => 'Two Columns',     'url' => 'two-columns'),
+#	'11' => array('id' => 11, 'parentid' => 2, 'title' => 'Three Columns',   'url' => 'three-columns'),
+#	'12' => array('id' => 12, 'parentid' => 2, 'title' => 'Gallery',    'url' => 'portfolio'),
+  );
 
 #  Creates social icons using FontAwesome social fonts
 #  Modify the links to point to your user account for each social network
@@ -46,7 +46,7 @@ $menu = array(
 $socialIcons = array(
     'Gettr' => array(
         'link' => 'https://gettr.com/user/jae_dacoder',
-        'icon' => 'fa-gettr'
+        'icon' => 'fas fa-fire'
     ),
     'Facebook' => array(
         'link' => 'http://facebook.com',

@@ -30,6 +30,7 @@ if (!empty($title)) { $title = $title;} else {$title = '';}
 		<script src="js/phpwt.js"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/flexslider/2.2.0/jquery.flexslider-min.js"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.sticky/1.0.4/jquery.sticky.min.js"></script>
+		<script src="https://kit.fontawesome.com/513682032f.js" crossorigin="anonymous"></script>
 
 	</head>
 	<body>
@@ -50,7 +51,7 @@ if (!empty($title)) { $title = $title;} else {$title = '';}
 				</div>
 				<div id="menu">
 					<?php echo HTMLMenu($menu,NULL); ?>
-				</div>
+     			</div>
 
 				<div class="clear"></div>
 			</div>

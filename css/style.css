@@ -56,7 +56,7 @@ h4,
 h5,
 #title,
 a {
-    color: #b2dd4c;
+    color: #4cddd1;
 }
 
 
@@ -64,7 +64,7 @@ a {
     Menu
    ============================ */
 #menu ul {
-    color: #b2dd4c;
+    color: #4cddd1;
 }
 
 #menu ul li a {
@@ -75,7 +75,7 @@ a {
 }
 
 #menu a {
-  color: #b2dd4c;
+  color: #4cddd1;
   display: block;
   line-height: 1.2em;
   padding: 0 30px;
@@ -84,7 +84,7 @@ a {
 }
 
 #menu .home {
-  background: #b2dd4c none repeat scroll 0 0;
+  background: #4cddd1 none repeat scroll 0 0;
   border-radius: 3px;
   color: #fff;
   padding: 0 30px;
@@ -92,7 +92,7 @@ a {
 }
 
 #menu a:hover {
-  background: #b2dd4c none repeat scroll 0 0;
+  background: #4cddd1 none repeat scroll 0 0;
   border-radius: 3px;
   color: #fff;
   padding: 0 30px;
@@ -110,7 +110,7 @@ a {
    ============================ */
    
 .flexslider li .category p {
-	background: #b2dd4c;
+	background: #4cddd1;
 	border-radius: 3px;
 	font-size: 1.1em;
 	padding: 12px 18px;
@@ -118,7 +118,7 @@ a {
 }
 
 .flexslider li .category span {
-	background: #b2dd4c;
+	background: #4cddd1;
 	border-radius: 3px;
 	padding: 12px 18px;
 	font-size: 1.1em;
@@ -132,7 +132,7 @@ a {
 
 .flexslider li h1 {
   background: rgba(51, 51, 51, 0.2) none repeat scroll 0 0;
-  border-left: 8px solid #b2dd4c;
+  border-left: 8px solid #4cddd1;
   border-radius: 3px;
   font-size: 1.3em;
   font-weight: 300;
@@ -169,7 +169,7 @@ a {
     Buttons
    ============================ */
 .button {
-  background-color: #b2dd4c;
+  background-color: #4cddd1;
   color: #fff;
 }
 

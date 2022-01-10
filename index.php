@@ -1,6 +1,6 @@
 <?php
 #  Add your page title
-$title = "My tyro-php Website";
+$title = "";
 #  Add your page description
 $description = "A website developed from fair-use templates that have been modified for educational purposes.";
 
